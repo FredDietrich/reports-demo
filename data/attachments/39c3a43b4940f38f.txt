@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.frontDesk.schedules.FrontDeskSchedulesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.163 s - in test.frontDesk.schedules.FrontDeskSchedulesTest

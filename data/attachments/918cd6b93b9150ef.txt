@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.schedule.ScheduleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 117.02 s <<< FAILURE! - in test.schedule.ScheduleTest
+blockTimeTest  Time elapsed: 92.692 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Error Trying to block schedule
+	at test.schedule.ScheduleTest.blockTimeTest(ScheduleTest.java:123)
+

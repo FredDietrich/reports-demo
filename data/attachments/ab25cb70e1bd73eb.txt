@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.onlineSchedule.OnlineScheduleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.447 s <<< FAILURE! - in test.onlineSchedule.OnlineScheduleTest
+test.onlineSchedule.OnlineScheduleTest  Time elapsed: 2.447 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Agenda Online não está no ar
+	at test.onlineSchedule.OnlineScheduleTest.checkForOnlineSchedule(OnlineScheduleTest.java:31)
+
